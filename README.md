@@ -10,6 +10,7 @@ git status
 
 git remote
 	   add <nome do repositório remoto> <link>
+	   
 	   -v 
 
 git add
