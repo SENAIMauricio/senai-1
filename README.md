@@ -8,17 +8,16 @@ git init
 
 git status
 
-git remote
-	   add <nome do repositório remoto> <link>
-	   
-	   -v 
+git remote </br>
+	   add <nome do repositório remoto> link </br>
+	   -v
 
-git add
+git add </br>
 	<nome do arquivo modificado>
 
-git commit
+git commit </br>
 	   -m <"mensagem">
 
-git push 
+git push </br>
 	 -u <nome do repositório remoto> <nome da branch do repositório remoto>
 
